@@ -23,7 +23,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://mysql:3306/blog
     username: root
-    password: root
+    password: kai@zhang0016
   rabbitmq:
     host: rabbitmq
     port: 5672
